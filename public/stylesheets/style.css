@@ -1,0 +1,31 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+ul {
+  list-style: none;
+  margin-left: -25px;
+}
+
+#delete-form {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+#delete-form button {
+  color: red;
+}
+
+li {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.new-skills {
+  display: inline-block;
+}
